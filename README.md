@@ -1,1 +1,1 @@
-# STAT
+# Students Teaching About Teachers (STAT)
